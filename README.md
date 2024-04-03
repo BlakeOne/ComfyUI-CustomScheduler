@@ -1,2 +1,2 @@
-# ComfyUI-CustomScheduler
-Simple node to set the sigmas values directly
+# ComfyUI CustomScheduler
+Simple node to set the sigma values directly
