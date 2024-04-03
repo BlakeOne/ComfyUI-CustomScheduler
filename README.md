@@ -1,5 +1,5 @@
 # ComfyUI CustomScheduler
-Simple node for setting the sigma values directly
+Simple node for setting the sigma values directly. Note, for a full denoise the last sigma should be zero.
 <BR  >
 <BR  >
 ![CustomSampler_ScreenShot1](https://github.com/BlakeOne/ComfyUI-CustomScheduler/assets/30273164/c5c258ec-49ba-4062-a3aa-9d019d693bfd)
