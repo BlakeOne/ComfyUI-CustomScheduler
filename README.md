@@ -6,8 +6,8 @@ Simple node for setting the sigma values directly. Note, for a full denoise the 
 <BR  >
 ![16_steps_screenshot](https://github.com/BlakeOne/ComfyUI-CustomScheduler/assets/30273164/633bdea4-1093-4055-98b1-3f4e5ed823f5)
 <BR  >
-# Shoutout
-[ComfyUI_tinyterraNodes](https://github.com/TinyTerra/ComfyUI_tinyterraNodes) - Based on code from this repo, which showed me how to hide and show widgets :)
+# Props
+ This repo is based on code from [ComfyUI_tinyterraNodes](https://github.com/TinyTerra/ComfyUI_tinyterraNodes), which showed me how to hide and show widgets :)
 <BR  >
 # My other scheduler node
 [ComfyUI-SchedulerMixer](https://github.com/BlakeOne/ComfyUI-SchedulerMixer) - Create a custom scheduler from a weighted average of the built-in schedulers
