@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-customscheduler"
+description = "Simple node for setting the sigma values directly. Note, for a full denoise the last sigma should be zero."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/BlakeOne/ComfyUI-CustomScheduler"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-CustomScheduler"
+Icon = ""
